@@ -1,9 +1,15 @@
 # Trajectory-test
 
 
-(    )
 
 
+
+![ттт (1) (1)](https://user-images.githubusercontent.com/79311642/231294802-edddbb2c-3f1c-4bf5-819f-93e85d338128.gif)
+
+
+
+
+Взглянуть на [Демо](https://trajectory-test.vercel.app/)
 ### Задача
 
 Создать веб-страницу с использованием фреймворком Vue или React.
